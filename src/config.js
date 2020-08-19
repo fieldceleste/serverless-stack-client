@@ -1,5 +1,6 @@
 export default {
   MAX_ATTACHMENT_SIZE: 5000000,
+  STRIPE_KEY: "pk_test_51HHaBSC0Kb9akMtgzlY8stFVKkJWDev62FjoIdhlhvXGz5SpiGgbSCNotY4DrNtBT8ZN6EQKJuqcyUjILISw5BQ500bLg6S6Jc",
   s3: {
     REGION: "us-east-1",
     BUCKET: "notes-app-college"
